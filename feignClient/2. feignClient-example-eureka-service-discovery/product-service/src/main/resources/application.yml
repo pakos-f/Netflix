@@ -1,0 +1,18 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: product-service
+
+app:
+  id: ${random.uuid}
+
+# Set to true when EUREKA discovery server is up and running.
+eureka:
+  client:
+    fetchRegistry: false
+    register-with-eureka: false
+
+
+## spring.sleuth.sampler.percentage=1.0

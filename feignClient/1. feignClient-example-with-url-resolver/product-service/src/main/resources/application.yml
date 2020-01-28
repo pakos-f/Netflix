@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: product-service
+
+# Set to true when EUREKA discovery server is up and running.
+eureka:
+  client:
+    fetchRegistry: false
+    register-with-eureka: false

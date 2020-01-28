@@ -1,0 +1,7 @@
+com\javadevjournal\feignclientexample\FeignClientExampleApplication.class
+com\javadevjournal\feignclientexample\Product.class
+com\javadevjournal\feignclientexample\errors\AppFeignErrorDecoder.class
+com\javadevjournal\feignclientexample\errors\ProductNotFoundException.class
+com\javadevjournal\feignclientexample\AppController.class
+com\javadevjournal\feignclientexample\errors\AppExceptionHandler.class
+com\javadevjournal\feignclientexample\ProductServiceClient.class
